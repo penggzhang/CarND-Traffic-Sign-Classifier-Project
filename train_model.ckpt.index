@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>train_model.ckpt.meta (editing)</title>
+    <title>train_model.ckpt.index (editing)</title>
     <link rel="shortcut icon" type="image/x-icon" href="/static/base/images/favicon.ico?v=30780f272ab4aac64aa073a841546240">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <link rel="stylesheet" href="/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=9b2c8d3489227115310662a343fce11c" type="text/css" />
@@ -119,7 +119,7 @@
 
 <body class="edit_app " 
 data-base-url="/"
-data-file-path="train_model.ckpt.meta"
+data-file-path="train_model.ckpt.index"
 
 >
 
